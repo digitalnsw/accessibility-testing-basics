@@ -34,9 +34,9 @@ these should remain static. Other schema prefixes are allowed, but can limit int
   <!-- There is just one organization. The organization contains just one item.-->
 	<organizations default="TOC1">
 		<organization identifier="TOC1">
-			<title>Creating accessible documents</title>
+			<title>Accessibility Testing Basics</title>
 			<item identifier="item_1" identifierref="resource_1">
-				<title>Creating accessible documents</title>
+				<title>Accessibility Testing Basics</title>
         <imsss:sequencing>
           <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true" />
         </imsss:sequencing>

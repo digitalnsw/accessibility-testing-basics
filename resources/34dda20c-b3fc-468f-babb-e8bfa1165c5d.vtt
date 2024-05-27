@@ -1,0 +1,27 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.116
+Inspecting the ‘alt’ text of an image.
+NSW Government. Accessibility NSW.
+[This video has no audio.]
+
+00:00:03.116 --> 00:00:05.266
+Video capture of the NSW Government website 
+The mouse cursor hovers over the NSW Government logo.
+
+00:00:05.266 --> 00:00:06.750
+The user right clicks to bring up the contextual  menu.
+
+00:00:06.750 --> 00:00:08.133
+They select ‘Inspect Element’ from the contextual menu.
+
+00:00:08.133 --> 00:00:13.250
+The elements panel appears
+showing the front end code.
+
+00:00:13.250 --> 00:00:14.683
+The image tag is selected.
+
+00:00:14.683 --> 00:00:18.666
+The cursor indicates the ‘alt’ attribute has the alternative text: ‘NSW Government logo’.
+
